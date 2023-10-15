@@ -1,4 +1,4 @@
-# Polling Application
+# Polling System
 
 This repository contains the complete code for polling application built in MERN Stack.
 
